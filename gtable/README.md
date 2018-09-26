@@ -11,7 +11,7 @@ $("#view-table").gtable({
 			return {
 				dataArr : response.datalist,
 				total :  response.total
-			};
+			}
 			
 		}
 	},
