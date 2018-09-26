@@ -1,6 +1,6 @@
 
 //js 
-
+```
 $("#view-table").gtable({
 	tablecls : "table table-striped jambo_table margin-top-10" ,  //table的样式
 	header : headerarr,
@@ -29,3 +29,4 @@ $("#view-table").gtable({
 
 //html
 <div class = "gtable" id="view-table" ></div>
+```
