@@ -1,0 +1,23 @@
+
+.gtable{
+    padding : 15px;
+    overflow-x: auto;
+}
+
+.gtable .fa{
+    cursor: pointer;
+
+}
+.gtable .fa:hover{
+    color : #D9534F;
+}
+
+
+.gtable td[name='operator'] i{
+}
+
+.gtable a {
+    text-decoration:underline;
+    color : #4B5F71
+}
+
